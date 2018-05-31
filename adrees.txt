@@ -1,0 +1,10 @@
+https://github.com/hanfengge1/tetsgit_python.git
+git@github.com:hanfengge1/tetsgit_python.git
+git@github.com:hanfengge1/pythone_test.git
+git@github.com:hanfengge1/pythone_test.git
+https://github.com/twbs/bootstrap.git
+
+git remote add origin git@github.com:hanfengge1/tetsgit_python.git
+
+git@github.com:hanfengge1/test.git
+https://github.com/hanfengge1/test.git
